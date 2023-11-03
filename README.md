@@ -1,2 +1,1 @@
-# STDfiles
-STD永久储存库
+# STD永久储存库
